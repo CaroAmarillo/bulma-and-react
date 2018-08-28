@@ -1,1 +1,1 @@
-## React meet Bulma
+## React meets Bulma
